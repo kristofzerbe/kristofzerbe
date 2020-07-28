@@ -2,7 +2,7 @@
 
 I'm a software developer and team lead from Wiesbaden, Germany. Beside working with Microsoft tools and platforms in my business for the last 20 and more years, I'm developing software also in my free time, because it's my passion. Almost as big as my other passion ... photography. 
 
-Find me blogging around tech stuff at [kiko.io](https://kiko.io)...
+Find me blogging about tech stuff at [kiko.io](https://kiko.io)...
 
 <!--
 **kristofzerbe/kristofzerbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
