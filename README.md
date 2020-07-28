@@ -1,3 +1,5 @@
+<img src="https://github.com/kristofzerbe/kristofzerbe/blob/master/header-Israel-0228-min.jpg" />
+
 ### Hi I'm Kristof 👋
 
 I'm a software developer and team lead from Wiesbaden, Germany. Beside working with Microsoft tools and platforms in my business for the last 20 and more years, I'm developing software also in my free time, because it's my passion. Almost as big as my other passion ... photography. 
